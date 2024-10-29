@@ -1,0 +1,21 @@
+{
+  "os_list": [
+    {
+      "name": "Web3 Pi v0.7.2 - 64bit",
+      "description": "Get Running Your Full Ethereum Node on Raspberry Pi. 2TB storage is requied (USB SSD or NVMe)",
+      "url": "https://github.com/Web3-Pi/Ethereum-On-Raspberry-Pi/releases/download/v0.7.2/Web3Pi_Single_Device.img.xz",
+      "icon": "https://path.to/your/logo-as-svg-or-png-40x40.svg",
+      "website": "https://www.web3pi.io/welcome-box",
+      "release_date": "2024-10-25",
+      "extract_size": 3675607040,
+      "extract_sha256": "a7b97a0d2120ee1aba06718625d477cadbc74e447663cd0f536e55da2c0cb263",
+      "image_download_size": 1113580116,
+      "image_download_sha256": "e9749b45c6ebc802a10b3f724d95ab4ea711bb9f0b1dd147b3aafc57a860b6aa",
+      "devices": [
+        "pi5-64bit",
+        "pi4-64bit"
+      ],
+      "init_format": "systemd"
+    },
+  ]
+}
