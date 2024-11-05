@@ -11,7 +11,7 @@
             "extract_sha256": "2a93ecacab07733f105b82e18deb4c019b82514f9db82c67ca773f13daf9d341",
             "image_download_size": 1113688272,
             "image_download_sha256": "ba929176edadafa3a07014f8d483f266639af280466c7729dc13a5c9500d5eca",
-            "init_format": "systemd",
+            "init_format": "cloudinit",
             "devices": [
                 "pi5-64bit",
                 "pi4-64bit"
